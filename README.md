@@ -1,0 +1,1 @@
+A simple nickname generator, specially made for that time when you are trying to create a gaming username lol :)
